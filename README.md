@@ -1,4 +1,4 @@
-# RestAssured — API Test Automation Framework (Java)
+# RestAssured — API Test Automation (Java)
 
 A comprehensive REST API test automation framework built with **REST Assured** and **Java**, covering a wide range of API testing concepts — from basic HTTP requests to authentication, serialization/deserialization, schema validation, and response parsing.
 
